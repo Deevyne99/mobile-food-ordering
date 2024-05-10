@@ -1,9 +1,9 @@
-ProductListComponent
-products
-import ProductListComponent from '@//components/ProductListComponent'
+// import ProductListComponent from '@/components/ProductListComponent'
+
 // import Colors from '@/src/constants/Colors'
 import { StyleSheet, Text, View, Image, FlatList } from 'react-native'
 import products from '../../../assets/data/products'
+import ProductListComponent from '../../components/ProductListComponent'
 
 // import EditScreenInfo from '@/src/components/EditScreenInfo'
 // import { } from '@/src/components/Themed'
